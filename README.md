@@ -1,0 +1,1 @@
+CreditWiseLoanSystem is a supervised machine learning project that predicts loan approval based on customer data such as income, credit score, employment, and repayment history. It helps banks reduce risk, automate loan decisions, and improve accuracy using classification algorithms.
